@@ -1,0 +1,130 @@
+body{
+  background: url('http://wallpapercave.com/wp/E6vdl0g.jpg');
+  font-family:serif;
+  letter-spacing:1px;
+}
+
+h3{
+  color:white;
+  text-shadow:2px 2px blue;
+ 
+}
+.header{
+  width:60vw;
+  height:auto;
+  text-align:center;
+  margin-left:auto;
+  margin-right:auto;
+
+  color:white;
+  
+}
+.container{
+  width: 65vw;
+  height:85vh;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:3vh;
+  background: rgba(50,50,50,.5);
+  position:relative;
+}
+
+#completeList{
+  width: 60vw;
+  height:85vh;
+ right:0px;
+  background:rgba(50,50,50,.5);
+  position:absolute;
+  z-index:999;
+}
+#backer{
+  width: 60vw;
+  height:85vh;
+ right:0px;
+  background:rgba(0,0,0,1);
+  position:absolute;
+  z-index:998;
+}
+#onlineList{
+  width: 60vw;
+  height:85vh;
+  right:0px;
+  background:rgba(50,50,50,.5);
+  position:absolute;
+  z-index: 997;
+}
+#offlineList{
+  width: 60vw;
+  height:85vh;
+  right:0px;
+  background:rgba(50,50,50,.5);
+  position:absolute;
+  z-index: 996;
+}
+
+#completeBTN {
+  width: 5vw;
+  height:33%;
+  left:0px;
+  background:rgba(0,0,150,.5);
+  position:absolute;
+  z-index: 999;
+  border: 2px solid black;
+  color:grey;
+}
+#onlineBTN {
+  width: 5vw;
+  height:33%;
+  top:33%;
+  left:0px;
+  background:rgba(0,150,0,.5);
+  position:absolute;
+  z-index: 999;
+  border: 2px solid black;
+  color:gray;
+}
+#offlineBTN {
+  width: 5vw;
+  height:34%;
+  top:66%;
+  left:0px;
+  background:rgba(150,0,0,.7);
+  position:absolute;
+  z-index: 999;
+  border: 2px solid black;
+    color: grey;
+  
+}
+
+p{
+  transform: rotate(90deg);
+  margin-top:5vh;
+}
+
+.rclass{
+  background:url('http://wallpapercave.com/wp/BL9uMGw.jpg') center center;
+  width:100%;
+  height:auto;
+  color:white;
+  text-align:right;
+}
+
+.rclass2{
+  background:url('http://wallpapercave.com/wp/BL9uMGw.jpg') center center;
+  width:100%;
+  height:auto;
+  color:white;
+  text-align:right;
+
+}
+
+
+
+.info{
+  color:yellow;
+  padding-bottom:1em;
+}
+.info-o{
+  color:red;
+  padding-bottom:1em;
+}
