@@ -7,7 +7,7 @@
 // constant stream array- ["ESL_SC2", "OgamingSC2", "cretetion", "freecodecamp", "storbeck", "habathcx", "RobotCaleb", "noobs2ninjas"]
 
 $(document).ready(function() {
-  var channel = ["ESL_SC2", "OgamingSC2", "Cretetion", "FreeCodeCamp", "Storbeck", "Habathcx", "RobotCaleb", "Noobs2Ninjas", "JCVIM"];
+  var channel = ["ESL_SC2", "OgamingSC2", "Cretetion", "FreeCodeCamp", "Storbeck", "Habathcx", "ALK824", "Babrooster", "JCVIM"];
 
   var jsondata = [];
   for (x = 0; x < channel.length; x++) {
