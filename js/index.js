@@ -1,9 +1,3 @@
-//Reference= https://codepen.io/FreeCodeCamp/full/Myvqmo/
-
-//Example API-  https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/Front-End-Project-Use-Twitchtv-JSON-API
-
-//API documentation-  https://github.com/justintv/Twitch-API/blob/master/v3_resources/streams.md#get-streamschannel
-
 // constant stream array- ["ESL_SC2", "OgamingSC2", "cretetion", "freecodecamp", "storbeck", "habathcx", "RobotCaleb", "noobs2ninjas"]
 
 $(document).ready(function() {
